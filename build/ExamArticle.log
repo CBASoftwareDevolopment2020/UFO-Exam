@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.18)  7 DEC 2020 12:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.18)  8 DEC 2020 13:47
 entering extended mode
 **./ExamArticle.tex
 (ExamArticle.tex
@@ -279,24 +279,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 12.
 
-(src/tex/abstract.tex) (src/tex/dataselection.tex) (src/tex/design.tex)
-(src/tex/research.tex) (src/tex/analysis.tex) (src/tex/reflection.tex) [1
+(src/tex/abstract.tex) (src/tex/problem.tex) (src/tex/benchmark.tex)
+(src/tex/optimization.tex) (src/tex/conclusion.tex) (src/tex/discussion.tex)
+[1
 
 {C:/Users/Ejer/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 (C:\Users\Ejer\Dropbox\CPHbusiness\Software\Sem2InvestigationAndReporting\Exam\
 build\ExamArticle.aux)
-
-Package rerunfilecheck Warning: File `ExamArticle.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ExamArticle.out':
-(rerunfilecheck)             Before: CD218BC0D0DB7393F896671E5DE280B5;264
-(rerunfilecheck)             After:  E07598846463EB7848F45ED0C6023F50;269.
+Package rerunfilecheck Info: File `ExamArticle.out' has not changed.
+(rerunfilecheck)             Checksum: C0FB5E2FE526339373EF7746DF57B0EB;287.
  ) 
 Here is how much of TeX's memory you used:
  5931 strings out of 480236
- 92516 string characters out of 2890436
+ 92528 string characters out of 2890436
  397949 words of memory out of 3000000
  22366 multiletter control sequences out of 15000+200000
  538728 words of font info for 41 fonts, out of 3000000 for 9000
@@ -306,7 +301,7 @@ Here is how much of TeX's memory you used:
 m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmr12.pfb>
 Output written on C:\Users\Ejer\Dropbox\CPHbusiness\Software\Sem2InvestigationA
-ndReporting\Exam\build\ExamArticle.pdf (1 page, 37071 bytes).
+ndReporting\Exam\build\ExamArticle.pdf (1 page, 37531 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
