@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.18)  8 DEC 2020 13:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.18)  10 DEC 2020 17:29
 entering extended mode
 **./ExamArticle.tex
 (ExamArticle.tex
@@ -279,31 +279,38 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 12.
 
-(src/tex/abstract.tex) (src/tex/problem.tex) (src/tex/benchmark.tex)
-(src/tex/optimization.tex) (src/tex/conclusion.tex) (src/tex/discussion.tex)
-[1
+(C:\Users\Ejer\Dropbox\CPHbusiness\Software\Sem2InvestigationAndReporting\Exam\
+build\ExamArticle.toc)
+\tf@toc=\write4
+\openout4 = `ExamArticle.toc'.
+
+ (src/tex/abstract.tex) (src/tex/problem.tex)
+(src/tex/benchmark.tex) (src/tex/alternatives.tex) (src/tex/results.tex)
+(src/tex/conclusion.tex) (src/tex/discussion.tex) [1
 
 {C:/Users/Ejer/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 (C:\Users\Ejer\Dropbox\CPHbusiness\Software\Sem2InvestigationAndReporting\Exam\
 build\ExamArticle.aux)
 Package rerunfilecheck Info: File `ExamArticle.out' has not changed.
-(rerunfilecheck)             Checksum: C0FB5E2FE526339373EF7746DF57B0EB;287.
+(rerunfilecheck)             Checksum: 397ED14A9BE1D2FAC1C8F3630C7C1593;330.
  ) 
 Here is how much of TeX's memory you used:
- 5931 strings out of 480236
- 92528 string characters out of 2890436
- 397949 words of memory out of 3000000
- 22366 multiletter control sequences out of 15000+200000
- 538728 words of font info for 41 fonts, out of 3000000 for 9000
+ 5945 strings out of 480236
+ 92944 string characters out of 2890436
+ 400990 words of memory out of 3000000
+ 22371 multiletter control sequences out of 15000+200000
+ 539036 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,6n,77p,231b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr17.pfb>
 Output written on C:\Users\Ejer\Dropbox\CPHbusiness\Software\Sem2InvestigationA
-ndReporting\Exam\build\ExamArticle.pdf (1 page, 37531 bytes).
+ndReporting\Exam\build\ExamArticle.pdf (1 page, 67250 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 70 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
