@@ -1,1 +1,15 @@
-\section{Optimizations}
+\section{Alternatives}
+Citing an internet link.\cite{Senn:2009}
+
+
+\subsection{Faster R-CNN (Region-Based Convolutional Neural Network)}
+It works using selective search to extract regions of interest in a picture, and then resizes these regions to a specific size, and runs these sub-images through a trained neural network to see if a known object can be found on any of them.
+\url{https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/#:~:text=Instead%20of%20working%20on%20a,these%20boxes%20are%20called%20regions}
+
+\subsection{YOLO (You only look once)}
+What makes YOLO different from other algorithms in that it is only passed through a neural network once, and then the result is processed by a non-max suppression algorithm that makes sure the same object hasn't been found multiple times.
+\url{https://medium.com/@ODSC/overview-of-the-yolo-object-detection-algorithm-7b52a745d3e0#:~:text=YOLO%20sees%20the%20entire%20image,outperforms%20other%20top%20detection%20methods}
+
+\subsection{HOG (Histogram of oriented gradients)}
+HOG is used in computer vision, as a feature descriptor for object detection. First a gradient orientation is calculated for small areas of the image, then HOG is able to extract features from the gradient orientation data, this is done by HOG being able to detect  edges and the direction of the edges.
+\url{https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduction-hog-feature-descriptor/}

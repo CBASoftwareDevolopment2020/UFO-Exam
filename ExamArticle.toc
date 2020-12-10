@@ -1,0 +1,11 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Abstract}{1}{section.1}%
+\contentsline {section}{\numberline {2}The Problem}{1}{section.2}%
+\contentsline {section}{\numberline {3}Benchmark}{2}{section.3}%
+\contentsline {section}{\numberline {4}Alternatives}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Faster R-CNN (Region-Based Convolutional Neural Network)}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}YOLO (You only look once)}{2}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}HOG (Histogram of oriented gradients)}{2}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Findings}{2}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{2}{section.6}%
+\contentsline {section}{\numberline {7}Discussion and Future Work}{3}{section.7}%
