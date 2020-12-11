@@ -1,9 +1,30 @@
 \begin{thebibliography}{1}
 
-\bibitem{Senn:2009}
-Mark Senn.
-\newblock Using {\LaTeX} for your thesis.
-\newblock \url{http://engineering.purdue.edu/~mark/puthesis}, 2009 (accessed
-  February 3, 2014).
+\bibitem{yolo}
+Overview of the yolo object detection algorithm.
+\newblock
+  \url{https://medium.com/@ODSC/overview-of-the-yolo-object-detection-algorithm-7b52a745d3e0},
+  2018 (accessed December 10, 2020).
+
+\bibitem{hog}
+Feature engineering for images: A valuable introduction to the hog feature
+  descriptor.
+\newblock
+  \url{https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduction-hog-feature-descriptor/},
+  2019 (accessed December 10, 2020).
+
+\bibitem{cuda}
+Opencv ‘dnn’ with nvidia gpus: 1549% faster yolo, ssd, and mask r-cnn.
+\newblock
+  \url{https://www.pyimagesearch.com/2020/02/10/opencv-dnn-with-nvidia-gpus-1549-faster-yolo-ssd-and-mask-r-cnn/},
+  2020 (accessed December 11, 2020).
+
+\bibitem{rcnn}
+Pulkit Sharma.
+\newblock A step-by-step introduction to the basic object detection algorithms
+  (part 1).
+\newblock
+  \url{https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/},
+  2018 (accessed December 10, 2020).
 
 \end{thebibliography}

@@ -1,0 +1,13 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{def} \PYG{n+nf}{get\PYGZus{}prediction}\PYG{p}{(}\PYG{n+nb+bp}{self}\PYG{p}{,} \PYG{n}{image}\PYG{p}{):}
+	\PYG{k}{if} \PYG{n}{image}\PYG{o}{.}\PYG{n}{shape}\PYG{p}{[}\PYG{l+m+mi}{1}\PYG{p}{]} \PYG{o}{\PYGZlt{}} \PYG{l+m+mi}{400}\PYG{p}{:}
+		\PYG{p}{(}\PYG{n}{height}\PYG{p}{,} \PYG{n}{width}\PYG{p}{)} \PYG{o}{=} \PYG{n}{image}\PYG{o}{.}\PYG{n}{shape}\PYG{p}{[:}\PYG{l+m+mi}{2}\PYG{p}{]}
+		\PYG{n}{ratio} \PYG{o}{=} \PYG{n}{width} \PYG{o}{/} \PYG{n+nb}{float}\PYG{p}{(}\PYG{n}{width}\PYG{p}{)}
+		\PYG{n}{image} \PYG{o}{=} \PYG{n}{cv2}\PYG{o}{.}\PYG{n}{resize}\PYG{p}{(}\PYG{n}{image}\PYG{p}{,} \PYG{p}{(}\PYG{l+m+mi}{400}\PYG{p}{,} \PYG{n}{width} \PYG{o}{*} \PYG{n}{ratio}\PYG{p}{))}
+	\PYG{n}{img\PYGZus{}gray} \PYG{o}{=} \PYG{n}{cv2}\PYG{o}{.}\PYG{n}{cvtColor}\PYG{p}{(}\PYG{n}{image}\PYG{p}{,} \PYG{n}{cv2}\PYG{o}{.}\PYG{n}{COLOR\PYGZus{}BGR2GRAY}\PYG{p}{)}
+	\PYG{n}{rects}\PYG{p}{,} \PYG{n}{weights} \PYG{o}{=} \PYG{n+nb+bp}{self}\PYG{o}{.}\PYG{n}{hog}\PYG{o}{.}\PYG{n}{detectMultiScale}\PYG{p}{(}\PYG{n}{img\PYGZus{}gray}\PYG{p}{,}
+					 \PYG{n}{winStride}\PYG{o}{=}\PYG{p}{(}\PYG{l+m+mi}{2}\PYG{p}{,} \PYG{l+m+mi}{2}\PYG{p}{),}
+					 \PYG{n}{padding}\PYG{o}{=}\PYG{p}{(}\PYG{l+m+mi}{10}\PYG{p}{,} \PYG{l+m+mi}{10}\PYG{p}{),}
+					 \PYG{n}{scale}\PYG{o}{=}\PYG{l+m+mf}{1.02}\PYG{p}{)}
+	\PYG{k}{return} \PYG{n}{rects}\PYG{p}{,} \PYG{n}{weights}
+\end{Verbatim}

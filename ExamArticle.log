@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.18)  10 DEC 2020 18:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.18)  11 DEC 2020 17:32
 entering extended mode
 **./ExamArticle.tex
 (ExamArticle.tex
@@ -187,7 +187,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
 \Hy@SectionHShift=\skip49
-))
+)
 ("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -207,14 +207,164 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen144
 \Gin@req@width=\dimen145
+))
+("C:\Program Files\MiKTeX\tex/latex/minted\minted.sty"
+Package: minted 2017/07/19 v2.5 Yet another Pygments shim for LaTeX
+
+("C:\Program Files\MiKTeX\tex/latex/fvextra\fvextra.sty"
+Package: fvextra 2019/02/04 v1.4 fvextra - extensions and patches for fancyvrb
+
+("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(src/sty/commands.sty
+("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+("C:\Program Files\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty"
+Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count196
+\FV@InFile=\read3
+\FV@TabBox=\box47
+\c@FancyVerbLine=\count197
+\FV@StepNumber=\count198
+\FV@OutFile=\write3
+)
+("C:\Program Files\MiKTeX\tex/latex/upquote\upquote.sty"
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+("C:\Program Files\MiKTeX\tex/latex/lineno\lineno.sty"
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count199
+\output=\toks18
+\linenoprevgraf=\count266
+\linenumbersep=\dimen146
+\linenumberwidth=\dimen147
+\c@linenumber=\count267
+\c@pagewiselinenumber=\count268
+\c@LN@truepage=\count269
+\c@internallinenumber=\count270
+\c@internallinenumbers=\count271
+\quotelinenumbersep=\dimen148
+\bframerule=\dimen149
+\bframesep=\dimen150
+\bframebox=\box48
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\c@FV@TrueTabGroupLevel=\count272
+\c@FV@TrueTabCounter=\count273
+\FV@TabBox@Group=\box49
+\FV@TmpLength=\skip50
+\c@FV@HighlightLinesStart=\count274
+\c@FV@HighlightLinesStop=\count275
+\FV@LoopCount=\count276
+\FV@NCharsBox=\box50
+\FV@BreakIndent=\dimen151
+\FV@BreakIndentNChars=\count277
+\FV@BreakSymbolSepLeft=\dimen152
+\FV@BreakSymbolSepLeftNChars=\count278
+\FV@BreakSymbolSepRight=\dimen153
+\FV@BreakSymbolSepRightNChars=\count279
+\FV@BreakSymbolIndentLeft=\dimen154
+\FV@BreakSymbolIndentLeftNChars=\count280
+\FV@BreakSymbolIndentRight=\dimen155
+\FV@BreakSymbolIndentRightNChars=\count281
+\c@FancyVerbLineBreakLast=\count282
+\FV@LineBox=\box51
+\FV@LineIndentBox=\box52
+\FV@LineWidth=\dimen156
+)
+("C:\Program Files\MiKTeX\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count283
+\calc@Bcount=\count284
+\calc@Adimen=\dimen157
+\calc@Bdimen=\dimen158
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count285
+\calc@Cskip=\skip53
+)
+("C:\Program Files\MiKTeX\tex/latex/tools\shellesc.sty"
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+)
+("C:\Program Files\MiKTeX\tex/latex/ifplatform\ifplatform.sty"
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+("C:\Program Files\MiKTeX\tex/generic/catchfile\catchfile.sty"
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+)
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
+("C:\Program Files\MiKTeX\tex/latex/xstring\xstring.sty"
+("C:\Program Files\MiKTeX\tex/generic/xstring\xstring.tex"
+\integerpart=\count286
+\decimalpart=\count287
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+("C:\Program Files\MiKTeX\tex/latex/framed\framed.sty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip54
+\fb@frw=\dimen159
+\fb@frh=\dimen160
+\FrameRule=\dimen161
+\FrameSep=\dimen162
+)
+("C:\Program Files\MiKTeX\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count288
+\float@exts=\toks19
+\float@box=\box53
+\@float@everytoks=\toks20
+\@floatcapt=\box54
+)
+\minted@appexistsfile=\read4
+\minted@bgbox=\box55
+\minted@code=\write4
+\c@minted@FancyVerbLineTemp=\count289
+\c@minted@pygmentizecounter=\count290
+\@float@every@listing=\toks21
+\c@listing=\count291
+)
+runsystem(if not exist _minted-ExamArticle mkdir _minted-ExamArticle)...execute
+d.
+
+ (src/sty/commands.sty
 Package: src/sty/commands 
 )
+("C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > Ex
+amArticle.aex <nul: /p x=^%~$PATH:i>> ExamArticle.aex)...executed.
+
+runsystem(del ExamArticle.aex)...executed.
+
+
 ("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count195
-\l__pdf_internal_box=\box47
+\l__kernel_color_stack_int=\count292
+\l__pdf_internal_box=\box56
 )
 (ExamArticle.aux)
 \openout1 = `ExamArticle.aux'.
@@ -245,30 +395,30 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ("C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count196
+\c@section@level=\count293
 )
 LaTeX Info: Redefining \ref on input line 11.
 LaTeX Info: Redefining \pageref on input line 11.
 LaTeX Info: Redefining \nameref on input line 11.
 
 (ExamArticle.out) (ExamArticle.out)
-\@outlinefile=\write3
-\openout3 = `ExamArticle.out'.
+\@outlinefile=\write5
+\openout5 = `ExamArticle.out'.
 
 
 ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count197
-\scratchdimen=\dimen146
-\scratchbox=\box48
-\nofMPsegments=\count198
-\nofMParguments=\count199
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count266
-\MPscratchDim=\dimen147
-\MPnumerator=\count267
-\makeMPintoPDFobject=\count268
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count294
+\scratchdimen=\dimen163
+\scratchbox=\box57
+\nofMPsegments=\count295
+\nofMParguments=\count296
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count297
+\MPscratchDim=\dimen164
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
+\everyMPtoPDFconversion=\toks23
 ) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -281,85 +431,167 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 13.
 
-(ExamArticle.toc
+(src/tex/abstract.tex) (src/tex/problem.tex) (src/tex/benchmark.tex)
+(src/tex/alternatives.tex
+\openout3 = `ExamArticle.pyg'.
+
+ (_minted-ExamArticle/default-pyg-prefix.pygstyle)
+(_minted-ExamArticle/default.pygstyle)
+(_minted-ExamArticle/B3017D7782D33A63B92CDB3A507A42332B44C502C97D164ADCC78B5316
+C7CCC6.pygtex
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 2.
+ [1
+
+{C:/Users/Ejer/AppData/Local/MiKTeX/pdftex/config/pdftex.map}])
+\openout3 = `ExamArticle.pyg'.
+
+
+(_minted-ExamArticle/93F179CEFBA51899214D0664678D00342B44C502C97D164ADCC78B5316
+C7CCC6.pygtex)
+\openout3 = `ExamArticle.pyg'.
+
+
+(_minted-ExamArticle/B771891FE34930C6B790050685C9ED932B44C502C97D164ADCC78B5316
+C7CCC6.pygtex)) (src/tex/results.tex
+<src/imgs/boxplot.png, id=60, 385.44pt x 555.57562pt>
+File: src/imgs/boxplot.png Graphic file (type png)
+<use src/imgs/boxplot.png>
+Package pdftex.def Info: src/imgs/boxplot.png  used on input line 9.
+(pdftex.def)             Requested size: 162.15042pt x 233.72165pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
+(Font)              <7> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 6.
-)
-\tf@toc=\write4
-\openout4 = `ExamArticle.toc'.
-
- (src/tex/abstract.tex) (src/tex/problem.tex)
-(src/tex/benchmark.tex) (src/tex/alternatives.tex [1
-
-{C:/Users/Ejer/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (296.24446pt too wide) in paragraph at lines 6--8
-[]$\OT1/cmtt/m/n/10 https : / / www . analyticsvidhya . com / blog / 2018 / 10 
-/ a-[]step-[]by-[]step-[]introduction-[]to-[]the-[]basic-[]object-[]detection-[
-]algorithms-[]part-[]1 /
+(Font)              <5> on input line 12.
+<src/imgs/YOLO_graph.png, id=62, 402.00188pt x 563.10374pt>
+File: src/imgs/YOLO_graph.png Graphic file (type png)
+<use src/imgs/YOLO_graph.png>
+Package pdftex.def Info: src/imgs/YOLO_graph.png  used on input line 15.
+(pdftex.def)             Requested size: 162.15042pt x 227.1278pt.
+<src/imgs/HOG_graph.png, id=65, 402.00188pt x 241.65282pt>
+File: src/imgs/HOG_graph.png Graphic file (type png)
+<use src/imgs/HOG_graph.png>
+Package pdftex.def Info: src/imgs/HOG_graph.png  used on input line 41.
+(pdftex.def)             Requested size: 162.15042pt x 97.47061pt.
+<src/imgs/FasterRCNN_graph.png, id=66, 402.00188pt x 241.65282pt>
+File: src/imgs/FasterRCNN_graph.png Graphic file (type png)
+<use src/imgs/FasterRCNN_graph.png>
+Package pdftex.def Info: src/imgs/FasterRCNN_graph.png  used on input line 47.
+(pdftex.def)             Requested size: 162.15042pt x 97.47061pt.
+ [2]) (src/tex/conclusion.tex)
+(src/tex/discussion.tex [3pdfTeX warning (ext4): destination with the same iden
+tifier (name{figure.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.1 \section
+            {Discussion and Future Work}pdfTeX warning (ext4): destination with
+ the same identifier (name{figure.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.1 \section
+            {Discussion and Future Work}pdfTeX warning (ext4): destination with
+ the same identifier (name{table.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.1 \section
+            {Discussion and Future Work} <./src/imgs/boxplot.png> <./src/imgs/Y
+OLO_graph.png>]) (ExamArticle.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+[]\OT1/cmr/m/n/10 Overview of the yolo ob-ject de-tec-tion
  []
 
 
-Overfull \hbox (22.9968pt too wide) in paragraph at lines 6--8
-\OT1/cmtt/m/n/10 # : [] : text = Instead % 20of % 20working % 20on % 20a ,[] th
-ese % 20boxes % 20are % 20called %
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+\OT1/cmr/m/n/10 al-go-rithm.  []$\OT1/cmtt/m/n/10 https : / / medium . com / @O
+DSC /
  []
 
 
-Overfull \hbox (160.48683pt too wide) in paragraph at lines 10--12
-\OT1/cmr/m/n/10 ple times. []$\OT1/cmtt/m/n/10 https : / / medium . com / @ODSC
- / overview-[]of-[]the-[]yolo-[]object-[]detection-[]algorithm-[]7b52a745d3e0# 
-:
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+\OT1/cmtt/m/n/10 overview-[]of-[]the-[]yolo-[]object-[]detection-[]algorithm-[]
+7b52a745d3e0$[]\OT1/cmr/m/n/10 ,
+ []
+
+[4pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.8 
+    pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.8 
+    pdfTeX warning (ext4): destination with the same identifier (name{table.2})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.8 
+     <./src/imgs/HOG_graph.png> <./src/imgs/FasterRCNN_graph.png>]
+Underfull \hbox (badness 1014) in paragraph at lines 10--15
+[]\OT1/cmr/m/n/10 Feature en-gi-neer-ing for im-ages: A valu-able in-tro-duc-ti
+on to the hog
  []
 
 
-Overfull \hbox (12.49689pt too wide) in paragraph at lines 10--12
-[] \OT1/cmtt/m/n/10 : text = YOLO % 20sees % 20the % 20entire % 20image ,[] out
-performs % 20other % 20top %
- []
-
-) (src/tex/results.tex
-Overfull \hbox (161.9956pt too wide) in paragraph at lines 14--1
-\OT1/cmtt/m/n/10 analyticsvidhya . com / blog / 2019 / 09 / feature-[]engineeri
-ng-[]images-[]introduction-[]hog-[]feature-[]descriptor/$[]
+Overfull \hbox (7.08049pt too wide) in paragraph at lines 10--15
+\OT1/cmtt/m/n/10 feature-[]engineering-[]images-[]introduction-[]hog-[]feature-
+[]descriptor/$[]\OT1/cmr/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--1
-
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+[]\OT1/cmr/m/n/10 Opencv `dnn' with nvidia gpus: 1549
  []
 
-) (src/tex/conclusion.tex [2]) (src/tex/discussion.tex) (ExamArticle.bbl)
-(ExamArticle.lof)
-\tf@lof=\write5
-\openout5 = `ExamArticle.lof'.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+[]$\OT1/cmtt/m/n/10 https : / / www . pyimagesearch . com / 2020 / 02 / 10 /
+ []
+
+
+Overfull \hbox (15.33044pt too wide) in paragraph at lines 17--21
+\OT1/cmtt/m/n/10 opencv-[]dnn-[]with-[]nvidia-[]gpus-[]1549-[]faster-[]yolo-[]s
+sd-[]and-[]mask-[]r-[]cnn/$[]\OT1/cmr/m/n/10 ,
+ []
+
+
+Overfull \hbox (78.3299pt too wide) in paragraph at lines 23--29
+\OT1/cmtt/m/n/10 a-[]step-[]by-[]step-[]introduction-[]to-[]the-[]basic-[]objec
+t-[]detection-[]algorithms-[]part-[]1/$[]\OT1/cmr/m/n/10 ,
+ []
+
+) (ExamArticle.lof)
+\tf@lof=\write6
+\openout6 = `ExamArticle.lof'.
 
  (ExamArticle.lot)
-\tf@lot=\write6
-\openout6 = `ExamArticle.lot'.
+\tf@lot=\write7
+\openout7 = `ExamArticle.lot'.
 
- [3] (ExamArticle.aux)
+ [5] (ExamArticle.aux)
 Package rerunfilecheck Info: File `ExamArticle.out' has not changed.
-(rerunfilecheck)             Checksum: 4DF7D87240382AE23446386045DA9B68;601.
+(rerunfilecheck)             Checksum: 95E3D55B3AEAFE4B9A36046394FB6B5A;557.
+runsystem(del ExamArticle.pyg)...executed.
+
  ) 
 Here is how much of TeX's memory you used:
- 5954 strings out of 480236
- 92585 string characters out of 2890436
- 405464 words of memory out of 3000000
- 22362 multiletter control sequences out of 15000+200000
- 539511 words of font info for 44 fonts, out of 3000000 for 9000
+ 9705 strings out of 480236
+ 164916 string characters out of 2890436
+ 535118 words of memory out of 3000000
+ 26013 multiletter control sequences out of 15000+200000
+ 539810 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,378b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.
-pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on ExamArticle.pdf (3 pages, 121471 bytes).
+ 72i,8n,77p,556b,624s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.p
+fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on ExamArticle.pdf (5 pages, 170106 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 145 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 

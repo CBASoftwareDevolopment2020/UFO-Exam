@@ -5,44 +5,48 @@ Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
 Reallocating 'name_of_file' (item size: 1) to 20 items.
 Database file #1: src/bib/sources.bib
-You've used 1 entry,
+Warning--to sort, need author or key in yolo
+Warning--to sort, need author or key in hog
+Warning--to sort, need author or key in cuda
+You've used 4 entries,
             2118 wiz_defined-function locations,
-            503 strings with 4153 characters,
-and the built_in function-call counts, 228 in all, are:
-= -- 20
-> -- 7
+            513 strings with 4866 characters,
+and the built_in function-call counts, 719 in all, are:
+= -- 68
+> -- 10
 < -- 0
-+ -- 3
++ -- 7
 - -- 2
-* -- 8
-:= -- 44
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 4
+* -- 26
+:= -- 98
+add.period$ -- 9
+call.type$ -- 4
+change.case$ -- 13
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 7
-empty$ -- 23
+cite$ -- 7
+duplicate$ -- 28
+empty$ -- 92
 format.name$ -- 2
-if$ -- 47
+if$ -- 170
 int.to.chr$ -- 0
-int.to.str$ -- 1
+int.to.str$ -- 4
 missing$ -- 0
-newline$ -- 8
+newline$ -- 20
 num.names$ -- 2
-pop$ -- 8
+pop$ -- 32
 preamble$ -- 1
-purify$ -- 3
+purify$ -- 9
 quote$ -- 0
-skip$ -- 7
+skip$ -- 28
 stack$ -- 0
-substring$ -- 5
-swap$ -- 1
+substring$ -- 21
+swap$ -- 4
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 0
+type$ -- 16
+warning$ -- 3
 while$ -- 2
-width$ -- 2
-write$ -- 12
+width$ -- 5
+write$ -- 36
+(There were 3 warnings)

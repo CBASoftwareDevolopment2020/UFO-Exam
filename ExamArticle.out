@@ -1,10 +1,9 @@
-\BOOKMARK [1][-]{section.1}{Abstract}{}% 1
-\BOOKMARK [1][-]{section.2}{The Problem}{}% 2
-\BOOKMARK [1][-]{section.3}{Benchmark}{}% 3
-\BOOKMARK [1][-]{section.4}{Alternatives}{}% 4
-\BOOKMARK [2][-]{subsection.4.1}{Faster R-CNN \(Region-Based Convolutional Neural Network\)}{section.4}% 5
-\BOOKMARK [2][-]{subsection.4.2}{YOLO \(You only look once\)}{section.4}% 6
-\BOOKMARK [2][-]{subsection.4.3}{HOG \(Histogram of oriented gradients\)}{section.4}% 7
-\BOOKMARK [1][-]{section.5}{Findings}{}% 8
-\BOOKMARK [1][-]{section.6}{Conclusion}{}% 9
-\BOOKMARK [1][-]{section.7}{Discussion and Future Work}{}% 10
+\BOOKMARK [1][-]{section.1}{The Problem}{}% 1
+\BOOKMARK [1][-]{section.2}{Benchmark}{}% 2
+\BOOKMARK [1][-]{section.3}{Alternatives}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Faster R-CNN \(Region-Based Convolutional Neural Network\)}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{YOLO \(You only look once\)}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{HOG \(Histogram of oriented gradients\)}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Findings}{}% 7
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 8
+\BOOKMARK [1][-]{section.6}{Discussion and Future Work}{}% 9

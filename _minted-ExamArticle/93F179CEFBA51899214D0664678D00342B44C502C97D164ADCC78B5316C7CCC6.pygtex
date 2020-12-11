@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{def} \PYG{n+nf}{get\PYGZus{}prediction}\PYG{p}{(}\PYG{n+nb+bp}{self}\PYG{p}{,} \PYG{n}{img}\PYG{p}{):}
+	\PYG{n}{bboxs}\PYG{p}{,} \PYG{n}{labels}\PYG{p}{,} \PYG{n}{confs} \PYG{o}{=} \PYG{n}{cv}\PYG{o}{.}\PYG{n}{detect\PYGZus{}common\PYGZus{}objects}\PYG{p}{(}\PYG{n}{img}\PYG{p}{)}
+    \PYG{k}{return} \PYG{n}{bboxs}\PYG{p}{,} \PYG{n}{labels}\PYG{p}{,} \PYG{n}{confs}
+\end{Verbatim}
