@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.18)  11 DEC 2020 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.18)  15 DEC 2020 14:55
 entering extended mode
 **./ExamArticle.tex
 (ExamArticle.tex
@@ -355,6 +355,8 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
+runsystem(del ExamArticle.aex)...executed.
+
 runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > Ex
 amArticle.aex <nul: /p x=^%~$PATH:i>> ExamArticle.aex)...executed.
 
@@ -589,7 +591,7 @@ X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.p
 fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on ExamArticle.pdf (5 pages, 170106 bytes).
+Output written on ExamArticle.pdf (5 pages, 169611 bytes).
 PDF statistics:
  145 PDF objects out of 1000 (max. 8388607)
  28 named destinations out of 1000 (max. 500000)
